@@ -21,7 +21,7 @@ return view('companies.index', $data);
 */
 public function create()
 {
-return view('create');
+return view('companies.create');
 }
 /**
 * Store a newly created resource in storage.
